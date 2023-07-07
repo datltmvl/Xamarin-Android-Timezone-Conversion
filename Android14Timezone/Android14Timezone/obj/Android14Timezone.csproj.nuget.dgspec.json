@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/Android14Timezone.csproj": {}
+  },
+  "projects": {
+    "/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/Android14Timezone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/Android14Timezone.csproj",
+        "projectName": "Android14Timezone",
+        "projectPath": "/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/Android14Timezone.csproj",
+        "packagesPath": "/Users/lethanhdat/.nuget/packages/",
+        "outputPath": "/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lethanhdat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/lethanhdat/Library/Caches/VisualStudio/17.0/MSBuild/12586_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

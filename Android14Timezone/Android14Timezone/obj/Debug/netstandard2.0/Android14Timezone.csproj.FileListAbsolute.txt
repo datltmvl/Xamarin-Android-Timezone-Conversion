@@ -1,0 +1,12 @@
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/bin/Debug/netstandard2.0/Android14Timezone.deps.json
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/bin/Debug/netstandard2.0/Android14Timezone.dll
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/bin/Debug/netstandard2.0/Android14Timezone.pdb
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/obj/Debug/netstandard2.0/Android14Timezone.csproj.AssemblyReference.cache
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/obj/Debug/netstandard2.0/Android14Timezone.AssemblyInfoInputs.cache
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/obj/Debug/netstandard2.0/Android14Timezone.AssemblyInfo.cs
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/obj/Debug/netstandard2.0/Android14Timezone.csproj.CoreCompileInputs.cache
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/obj/Debug/netstandard2.0/Android14Timezone.dll
+/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/obj/Debug/netstandard2.0/Android14Timezone.pdb

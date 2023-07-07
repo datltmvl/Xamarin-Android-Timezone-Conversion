@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    このコードはツールによって生成されました。
+    これは /Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone.Droid/Properties/AndroidManifest.xml から生成されました
+    このファイルへの変更は、正しくない動作の原因になる可能性があると共に、
+    コンテンツが再生成された場合に失われます。
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.companyname.Android14Timezone" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="33" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:name="android.app.Application" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:label="Android14Timezone.Droid">
+    <activity android:name="crc64c2a6d8c323f505c0.MainActivity" android:configChanges="orientation|screenSize" android:exported="true" android:label="Android14Timezone" android:theme="@style/MainTheme">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <service android:name="crc64396a3fe5f8138e3f.KeepAliveService" />
+    <receiver android:name="crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver" android:enabled="true" android:exported="false" />
+    <provider android:name="mono.MonoRuntimeProvider" android:authorities="com.companyname.Android14Timezone.mono.MonoRuntimeProvider.__mono_init__" android:exported="false" android:initOrder="1999999999" />
+  </application>
+</manifest>

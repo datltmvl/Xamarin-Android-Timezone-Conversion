@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e1JvRv50rsZOx+8ZxgE4UuzNUOSyjOgxvDymf4lsAmwaKAdbr6F8F3oll8yNWA0ieRwftXpD0GD2LE+rkCbIOA==",
+  "success": true,
+  "projectFilePath": "/Users/lethanhdat/RiderProjects/Android14Timezone/Android14Timezone/Android14Timezone/Android14Timezone.csproj",
+  "expectedPackageFiles": [
+    "/Users/lethanhdat/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/lethanhdat/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/lethanhdat/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
